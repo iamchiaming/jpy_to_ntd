@@ -6,5 +6,5 @@ gbp = jpy * 0.0071
 print('英鎊: ', gbp)
 eur = jpy * 0.0083
 print('歐元: ', eur)
-uad = jpy * 0.0092
-print('美元: ', uad)
+usd = jpy * 0.0092
+print('美元: ', usd)
