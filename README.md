@@ -1,1 +1,1 @@
-# jpy_to_ntd
+# my first Python coding in my life
